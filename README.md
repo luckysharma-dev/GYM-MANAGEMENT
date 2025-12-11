@@ -1,11 +1,12 @@
 
-  # Gym Management Website
+# 🏋️‍♂️ Gym Management System
 
-  This is a code bundle for Gym Management Website. The original project is available at https://www.figma.com/design/YtjM2OzcXUbGEHSdtLGx7T/Gym-Management-Website.
+A robust full-stack application designed to streamline gym operations. Built with **TypeScript** and the **MERN Stack**, this system helps gym owners manage members, track subscription plans, and monitor payments in real-time.
 
-  ## Running the code
+### 🚀 Key Features
+- **Member Management:** Add, update, and track member details.
+- **Subscription Plans:** Create and assign monthly/yearly membership tiers.
+- **Dashboard:** Visual analytics for active members and revenue.
+- **Tech Stack:** TypeScript, React.js, Node.js, Express, MongoDB.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+---
